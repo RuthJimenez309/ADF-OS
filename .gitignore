@@ -1,3 +1,6 @@
 
 # ADF-OS Perim Deception Alerts Logs
 perimeter_deception_engine/*.json
+
+# Evidencias de Auditoria - Dia 25
+ComplianceEvidence.json
